@@ -10,7 +10,6 @@
     
     Author: MrRos3
     Github: https://github.com/MrRos3/WindUI
-    Discord: https://discord.gg/ftgs-development-hub-1300692552005189632
     License: MIT
 ]]
 
