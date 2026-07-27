@@ -116,7 +116,7 @@ local Window = WindUI:CreateWindow({
     -- }),
     --Background = "video:https://cdn.discordapp.com/attachments/1337368451865645096/1402703845657673878/VID_20250616_180732_158.webm?ex=68958a01&is=68943881&hm=164c5b04d1076308b38055075f7eb0653c1d73bec9bcee08e918a31321fe3058&",
     --Background = "rbxassetid://88271032881974",
-    --Background = "https://footagesus.github.io/WindUI-Docs/banners/thumbnail2.jpg",
+    --Background = "https://MrRos3.github.io/WindUI-Docs/banners/thumbnail2.jpg",
     User = {
         Enabled = true,
         Anonymous = true,
@@ -151,7 +151,7 @@ local Window = WindUI:CreateWindow({
     -- KeySystem = { -- 
     --     -- Key = { "1234", "5678" },  
     --     Note = "Example Key System. With platoboost, etc.",
-    --     -- URL = "https://github.com/Footagesus/WindUI",
+    --     -- URL = "https://github.com/MrRos3/WindUI",
     --     -- Thumbnail = {
     --     --     Image = "rbxassetid://",
     --     --     Title = "Thumbnail",
@@ -704,7 +704,7 @@ end
 local footerSection = Window:Section({ Title = "WindUI " .. WindUI.Version })
 Tabs.Config:Paragraph({
     Title = "Github Repository",
-    Desc = "github.com/Footagesus/WindUI",
+    Desc = "github.com/MrRos3/WindUI",
     Image = "github",
     ImageSize = 20,
     Color = "Grey",
@@ -714,7 +714,7 @@ Tabs.Config:Paragraph({
             Icon = "copy",
             Variant = "Tertiary",
             Callback = function()
-                setclipboard("https://github.com/Footagesus/WindUI")
+                setclipboard("https://github.com/MrRos3/WindUI")
                 WindUI:Notify({
                     Title = "Copied!",
                     Content = "GitHub link copied to clipboard",
