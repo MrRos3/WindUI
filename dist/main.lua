@@ -617,7 +617,7 @@ local i=a.load'a'local j=
 
 d.Heartbeat
 
-local l="https://raw.githubusercontent.com/MrRos3/Icons/main/Main-v2.lua"
+local l="https://raw.githubusercontent.com//Icons/main/Main-v2.lua"
 
 local m
 if d:IsStudio()or not writefile then
@@ -2475,7 +2475,7 @@ return[[
     "name": "windui",
     "version": "1.6.65",
     "main": "./dist/main.lua",
-    "repository": "https://github.com/MeRos3/WindUI",
+    "repository": "https://github.com/MrRos3/WindUI",
     "discord": "https://discord.gg/ftgs-development-hub-1300692552005189632",
     "author": "MrRos3",
     "description": "Roblox UI Library for scripts",
